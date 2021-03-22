@@ -97,7 +97,7 @@ im a telegraph Uploader That Can Upload Photo, Video And Gif
         
 Simply send me photo, video or gif to upload to Telegra.ph
         
-Made With Love By @VEDMAT_OWNER</b>""",
+Made With Love By @ABOUT_VEDMAT_OWNER</b>""",
         reply_markup=reply_markup,
         parse_mode="html",
         reply_to_message_id=message.message_id
@@ -110,7 +110,7 @@ async def help(client, message):
         InlineKeyboardButton('Close', callback_data='close')
     ],
     [
-        InlineKeyboardButton('Our Channel', url='http://telegram.me/indusbots')
+        InlineKeyboardButton('CREATOR', url='http://telegram.me/VEDIC_MATHS_OWNER')
     ]]
   reply_markup = InlineKeyboardMarkup(buttons)
   await Tgraph.send_message(
