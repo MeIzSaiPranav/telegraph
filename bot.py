@@ -86,8 +86,9 @@ async def home(client, message):
     ],
     [
         InlineKeyboardButton('Our Channel', url='http://telegram.dog/ELITEBOT_OFFICIAL'),
-        InlineKeyboardButton('Support', url='https://t.me/ELITES_USERBOT_SUPPORT')
-    ]]
+        InlineKeyboardButton('Support', url='https://t.me/ELITES_USERBOT_SUPPORT'),
+        InlineKeyboardButton('PRO', url='http://telegram.dog/ELITES_OWNER_1724')
+ ]]
   reply_markup = InlineKeyboardMarkup(buttons)
   await Tgraph.send_message(
         chat_id=message.chat.id,
@@ -110,7 +111,7 @@ async def help(client, message):
         InlineKeyboardButton('Close', callback_data='close')
     ],
     [
-        InlineKeyboardButton('CREATOR', url='http://telegram.me/VEDIC_MATHS_OWNER')
+        InlineKeyboardButton('LEGEND⚡', url='http://telegram.me/VEDIC_MATHS_OWNER')
     ]]
   reply_markup = InlineKeyboardMarkup(buttons)
   await Tgraph.send_message(
