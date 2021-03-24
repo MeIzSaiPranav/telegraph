@@ -110,7 +110,7 @@ async def help(client, message):
         InlineKeyboardButton('Close', callback_data='close')
     ],
     [
-        InlineKeyboardButton('LEGEND⚡', url='http://telegram.me/V3MATOWNER')
+        InlineKeyboardButton('LEGEND⚡', url='http://telegram.me/V3DMATOWNER')
     ]]
   reply_markup = InlineKeyboardMarkup(buttons)
   await Tgraph.send_message(
