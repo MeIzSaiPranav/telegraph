@@ -1,16 +1,15 @@
 {
     "name": "Telegra.ph Uploader Bot",
     "description": "A bot that can upload medias to Telegra.ph",
-    "logo": "https://telegra.ph/file/541efcde8cc63c9971b0f.jpg",
+    "logo": "https://telegra.ph/file/e63f109464eebd4c6fff2.jpg",
     "keywords": [
         "Telegra.ph",
         "Uploader",
         "Telegram Bot",
         "Attitudeking1"
     ],
-    "website": "https://benchamxd.me",
     "repository": "https://github.com/attitudeking1/telegraph",
-    "success_url": "https://telegram.dog/ABOUT_VEDMAT_OWNER",
+    "success_url": "https://telegram.dog/ABOUTVEDMAT",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
