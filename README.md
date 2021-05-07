@@ -8,6 +8,3 @@
 
  [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/attitudeking1/Telegraph/)
 
-#TELEGRAM 
-
-![TELEGRAM CHANNEL](https://t.me/ABOUTVEDMAT)
