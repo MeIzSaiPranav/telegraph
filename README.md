@@ -10,4 +10,4 @@
 
 #TELEGRAM 
 
-[![TELEGRAM CHANNEL](https://t.me/ABOUTVEDMAT)](https://github.com/attitudeking1/Telegraph/
+[![TELEGRAM CHANNEL](https://t.me/ABOUTVEDMAT)
