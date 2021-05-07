@@ -85,8 +85,8 @@ async def home(client, message):
         InlineKeyboardButton('Close', callback_data='close')
     ],
     [
-        InlineKeyboardButton('Our Channel', url='http://telegram.dog/VEDMATCH'),
-        InlineKeyboardButton('Support', url='https://t.me/ABOUTVEDMAT')
+        InlineKeyboardButton('Our Channel', url='http://telegram.dog/ABOUTVEDMAT'),
+        InlineKeyboardButton('Support', url='https://t.me/ISHQZAADE_0')
  ]]
   reply_markup = InlineKeyboardMarkup(buttons)
   await Tgraph.send_message(
@@ -97,7 +97,7 @@ im a telegraph Uploader That Can Upload Photo, Video And Gif
         
 Simply send me photo, video or gif to upload to Telegra.ph
         
-Made With Love By @ABOUTVEDMAT</b>""",
+Made With Love By @SHAYRI_OF_LOVES</b>""",
         reply_markup=reply_markup,
         parse_mode="html",
         reply_to_message_id=message.message_id
