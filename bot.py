@@ -1,5 +1,4 @@
-#    This file is part of the ChannelAutoForwarder distribution (https://github.com/Benchamxd/Telegraph-Uploader).
-#    Copyright (c) 2021 Rithunand
+#    This file is part of the ChannelAutoForwarder distribution (https://github.com/attitudeking1/Telegraph).
 #    
 #    This program is free software: you can redistribute it and/or modify  
 #    it under the terms of the GNU General Public License as published by  
@@ -10,7 +9,7 @@
 #    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU 
 #    General Public License for more details.
 # 
-#    License can be found in < https://github.com/Benchamxd/Telegraph-Uploader/blob/main/License> 
+#    License can be found in < https://github.com/attitudeking1/Telegraph/blob/main/License> 
 
 import os
 from telegraph import upload_file
@@ -85,8 +84,8 @@ async def home(client, message):
         InlineKeyboardButton('Close', callback_data='close')
     ],
     [
-        InlineKeyboardButton('Our Channel', url='http://telegram.dog/ABOUTVEDMAT'),
-        InlineKeyboardButton('Support', url='https://t.me/ISHQZAADE_0')
+        InlineKeyboardButton('Our Channel', url='http://telegram.dog/ELITE_BOT_OFFICIAL'),
+        InlineKeyboardButton('Support', url='https://t.me/ELITES_USERBOT')
  ]]
   reply_markup = InlineKeyboardMarkup(buttons)
   await Tgraph.send_message(
